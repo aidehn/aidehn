@@ -7,7 +7,7 @@
 - I aim to write code which is clean, well-written and maintainable. Someone has to read my code eventually!
 
 <details>
-  <summary>🏃‍♂️My Coding Journey</summary>
+  <summary>🏃‍♂️<strong>My Coding Journey</strong></summary>
    At University I studied Physics having the oppurtunity to learn both Python and C in the context of Scientific Computing and High-Performance Computing and this is where my love for coding started. In my penultimate year, I knew I wanted to pursue a career which involved programming, but also one which allowed me to be creative and expressive with the code I write. This eventually lead me to learning JavaScript and the rest was history.
 </details>
 
