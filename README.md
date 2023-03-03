@@ -1,4 +1,4 @@
-# 👋 Aiden Huynh `Full Stack Developer`
+# 🚀`Aiden Huynh - Full-Stack Software Engineer`
 
 
 ---
