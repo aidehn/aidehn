@@ -3,6 +3,7 @@
 - Graduated with a Master of Physics 📜
 - In my spare time I enjoy Climbing 🧗 and playing Badminton 🏸
 - Love working with TypeScript 🟦 and React ⚛️
+- I enjoy creating projects which are fun as well as well-written and maintainable.
 
 ## 💻 Connect with me on LinkedIn!
 <a href="https://www.linkedin.com/in/aiden-huynh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
